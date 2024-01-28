@@ -12,9 +12,9 @@ This was the final course project of [CS2112: OOP and Data Structures (Honors)](
 - Built a simulation of a hexagonal critter world where critters of different species move, eat, reproduce, and evolve
 - Coded a parser in Java that converts critter’s genome to an abstract syntax tree and an interpreter to execute the corresponding program
 - Designed a GUI that allows users to place, view, and kill critters as the world advances automatically or following user's command
-- Implemented a distributed client-server system, permitting multi-user to view and interact with the model concurrently through GUI 
+- Implemented a distributed client-server system, permitting multi-user to view and interact with the model concurrently through GUI
 
-This 8-week-long project ended up having 7000+ lines of codes in Java. I am very pround to include it on my homepage even long after I graduated because except the GUI part, I led the whole project's structure design and guided my two teammates on its implementation. (Unfortunately I still can't wrap my head around how all the listeners in GUI works till today) 
+This 8-week-long project ended up having 7000+ lines of codes in Java. I am very pround to include it on my homepage even long after I graduated because except the GUI part, I led the whole project's structure design and guided my two teammates on its implementation. (Unfortunately I still can't wrap my head around how all the listeners in GUI works till today)
 
 In addition to standard object oriented programming concepts like interface specification, read write split, etc, to make each milestone possible, I learned basics of compiler, designing abstract syntax tree, API communication, concurrent programming, and a lot more. Our implmentation of the server excelled in responding speed among all teams, many of which have years of programming experiences before taking this class.
 
