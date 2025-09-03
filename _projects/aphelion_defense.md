@@ -15,7 +15,8 @@ We built [Aphelion Defense](https://web.archive.org/web/20230620225349/https://g
 
 Students were supposed to work in a group of 10 on a single mobile game throughout the semester, with a setup of at least 5 programmers and 3 designers. We started off with 6 programmers and 3 designers. However, one of our designers dropped the class, while another started to ghost us since week 2, putting great pressure on the only designer we had left and slowing down the whole devleopment process.
 
-{% include figure.liquid loading="eager" path="assets/img/aphelion-defense-team.jpg" class="img-fluid rounded z-depth-1" %} 
+{% include figure.liquid loading="eager" path="assets/img/aphelion-defense-team.jpg" class="img-fluid rounded z-depth-1" %}
+
 <div class="caption">
     Our Fabulous Team
 </div>

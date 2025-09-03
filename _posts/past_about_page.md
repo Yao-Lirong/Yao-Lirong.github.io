@@ -3,7 +3,6 @@ layout: page
 title: Archive of About Me
 ---
 
-
 ## Sept 2023
 
 I am a machine learning research engineer at the Internet Business department of [Xiaomi](https://www.mi.com) based in [Nanjing, Jiangsu, China](https://www.bing.com/maps?osid=44d1bde7-594f-4881-8353-504c54e7fd25&cp=31.971623~118.705022&lvl=16&pi=0&v=2&sV=2&form=S00027). Prior to industry, I received my Bachelor's Degree in Computer Science from the gorgeous [Cornell University](https://www.cs.cornell.edu).
