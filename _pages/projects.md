@@ -5,7 +5,7 @@ permalink: /projects/
 description: Selected projects that I am pround of
 nav: true
 nav_order: 2
-display_categories: [Cornell]
+display_categories: [Xiaomi, Cornell]
 horizontal: false
 ---
 
