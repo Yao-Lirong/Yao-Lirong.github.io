@@ -16,224 +16,224 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-first-time-debugging-with-chatgpt",
+        },{id: "post-matryoshka-representation-learning-adaptive-retrieval-and-binary-vector-search",
+        
+          title: 'Matryoshka Representation Learning, Adaptive Retrieval and Binary Vector Search <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Intro to Matryoshka Representation LearningIn Matryoshka Representation Learning (MRL), we want to construct an",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://yao-lirong.github.io/blog/matryoshka-representation-learning-adaptive-retrieval-and-binary-vector-search/", "_blank");
+          
+        },
+      },{id: "post-youtube-recommendation-algorithms-2016",
+        
+          title: 'YouTube Recommendation Algorithms (2016) <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "This is a detailed reading of Google’s paper DeepNeural Networks for YouTube Recommendations",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://yao-lirong.github.io/blog/youtube-recommendation-algorithms-2016/", "_blank");
+          
+        },
+      },{id: "post-running-mobilebert-on-android-with-tensorflow-lite",
+        
+          title: 'Running MobileBert on Android with TensorFlow Lite <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "So Google, fxxk you.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://yao-lirong.github.io/blog/running-mobilebert-on-android-with-tensorflow-lite/", "_blank");
+          
+        },
+      },{id: "post-variational-inference",
+        
+          title: 'Variational Inference <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Probabilistic LatentVariable ModelsThe two general forms of probabilistic models are",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://yao-lirong.github.io/blog/variational-inference/", "_blank");
+          
+        },
+      },{id: "post-hyper-parameter-tuning-with-optuna",
+        
+          title: 'Hyper-Parameter Tuning with Optuna <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "After self-implementing a grid-search but having a horrible timewriting pyplot visualizing the result, I finally decided to find anexisting tool to do the HP tuning for me.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://yao-lirong.github.io/blog/hyper-parameter-tuning-with-optuna/", "_blank");
+          
+        },
+      },{id: "post-kv-cache",
+        
+          title: 'KV Cache <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Before this, see 2024/06/17Conducting Multi-Round Conversation with Transformers for why weneed cache. But we have query, key, value three matrices. Why do youonly cache past keys and values? How about past queries?",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://yao-lirong.github.io/blog/kv-cache/", "_blank");
+          
+        },
+      },{id: "post-conducting-multi-round-conversation-with-transformers",
+        
+          title: 'Conducting Multi-Round Conversation with Transformers <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "I was using LLaVA to query in an image how many characters there are.For higher accuracy, I decided to employ Chain of Thought, but struggledto implement it. CoT is conducted through a multiple round conversation.It is easily done in a graphical chat interface but how is it doneinternally with code?",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://yao-lirong.github.io/blog/conducting-multi-round-conversation-with-transformers/", "_blank");
+          
+        },
+      },{id: "post-gpt-4o-release",
+        
+          title: 'GPT-4o Release <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "One day before Google I/O, OpenAI made a Spring UpdateRelease, introducing multi-modal end-to-end model GPT4-o",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://yao-lirong.github.io/blog/gpt-4o-release/", "_blank");
+          
+        },
+      },{id: "post-clip",
+        
+          title: 'CLIP <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "CLIP investigates whether it is possible to transfer the success oftask-agnostic web-scale pre-training in NLP to another domain (CV).",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://yao-lirong.github.io/blog/clip/", "_blank");
+          
+        },
+      },{id: "post-gradient-scaling",
+        
+          title: 'Gradient Scaling <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Loss Scaling / Gradient Scaling was mentioned in Mixed-Precision Trainingas one of the 3 techniques, but there are many points to be careful withwhen in practice.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://yao-lirong.github.io/blog/gradient-scaling/", "_blank");
+          
+        },
+      },{id: "post-decoupled-weight-decay-regularization-sgdw-amp-adamw",
+        
+          title: 'Decoupled Weight Decay Regularization (SGDW &amp; AdamW) <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "The paper Decoupled WeightDecay Regularization mainly introduces AdamW, which is the SOTAoptimizer since then. It investigates why Adam with L2 regularizationsometimes performs worse than SGD with L2 regularization. Itdemonstrates weight decay and L2 regularization, two things peopleusually draw an equal sign, are not the same. And it shows weight decayis the ultimate go-to choice.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://yao-lirong.github.io/blog/decoupled-weight-decay-regularization-sgdw-adamw/", "_blank");
+          
+        },
+      },{id: "post-mixed-precision-training",
+        
+          title: 'Mixed-Precision Training <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Mixed-precision training was introduced in Nvidia and Baidu’s research.Theblogpost from Nvidia gave a nice summary of how it’s done and why itworks. Nvidia also gave a more in-depth coverage of the same points intheir tutorial on trainingwith mixed precision.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://yao-lirong.github.io/blog/mixed-precision-training/", "_blank");
+          
+        },
+      },{id: "post-parameter-and-flop-count-in-transformer-model",
+        
+          title: 'Parameter and FLOP Count in Transformer Model <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "We borrow the results of decoder-only transformer models from OpenAI’s paper Scaling Laws forNeural Language Models Section 2.1",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://yao-lirong.github.io/blog/parameter-and-flop-count-in-transformer-model/", "_blank");
+          
+        },
+      },{id: "post-memory-pinning-and-transfer-data-between-host-cpu-and-device-gpu",
+        
+          title: 'Memory Pinning and Transfer Data between Host (CPU) and Device (GPU) <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "PyTorchofficial documentation explains this concept very briefly and we gointo more detail here.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://yao-lirong.github.io/blog/memory-pinning-and-transfer-data-between-host-cpu-and-device-gpu/", "_blank");
+          
+        },
+      },{id: "post-switching-personal-homepage-theme-to-al-folio",
+        
+          title: 'Switching Personal Homepage Theme to al-folio <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Since long before have I realized I do need a more official and moreacademic homepage in addition to a personal blog site, but I didn’t findtime to do it until I started working. Now after this switch, I have mypersonal homepage of al-folio in Jekyll and at the same time my blog ofarcher inHexo.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://yao-lirong.github.io/blog/switching-personal-homepage-theme-to-al-folio/", "_blank");
+          
+        },
+      },{id: "post-visual-information-theory",
+        
+          title: 'Visual Information Theory <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "This blog post is adapted from ex-OpenAI researcher, Anthropicco-founder ChristopherOlah’s wonderful work. I removed parts that are generallycommonsense to a CS kid and added some of my own notes &amp;amp;explanations.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://yao-lirong.github.io/blog/visual-information-theory/", "_blank");
+          
+        },
+      },{id: "post-quantization",
+        
+          title: 'Quantization <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "K-bit Inference ScalingLawsThis paper and its",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://yao-lirong.github.io/blog/quantization/", "_blank");
+          
+        },
+      },{id: "post-fine-tuning-llms-prompt-tuning-adapter-lora",
+        
+          title: 'Fine-Tuning LLMs: Prompt Tuning, Adapter, LoRA <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "This article AGuid to Parameter-efficient Fine-tuning (PEFT) made a very goodsummary with nice drawings. There are some differences between itsexplanation with the original paper but the basic architecture is allgood.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://yao-lirong.github.io/blog/fine-tuning-llms-prompt-tuning-adapter-lora/", "_blank");
+          
+        },
+      },{id: "post-graph-networks-amp-graphcast",
+        
+          title: 'Graph Networks &amp; GraphCast <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "GraphNetworksThis is a very detailed and clear intro to Gra",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://yao-lirong.github.io/blog/graph-networks-graphcast/", "_blank");
+          
+        },
+      },{id: "post-first-time-debugging-with-chatgpt",
         
           title: 'First Time Debugging with ChatGPT <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "I was trying out the sampling in MMM music generation model today and encountered the problem described in this issue I proposed. I have no experience writing C in python with ctypes, so I figured why not ask the magic  conch shell  ChatGPT?",
+        description: "I was trying out the sampling in MMM music generation modeltoday and encountered the problem described in this issue Iproposed. I have no experience writing C in python withctypes, so I figured why not ask the magic  conchshell  ChatGPT?",
         section: "Posts",
         handler: () => {
           
-            window.open("https://yao-lirong.github.io/blog/2023-04-04-First-Time-Debugging-with-ChatGPT/", "_blank");
-          
-        },
-      },{id: "post-2022-web-journal",
-        
-          title: '2022 Web Journal <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://yao-lirong.github.io/blog/2022-12-31-2022-%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97/", "_blank");
-          
-        },
-      },{id: "post-deploy-a-reddit-bot-on-heroku",
-        
-          title: 'Deploy a Reddit Bot on Heroku <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "I’ve created a bot to send warm welcomes to newly admitted Cornell prefrosh.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://yao-lirong.github.io/blog/2022-09-04-Deploy-a-Reddit-Bot-on-Heroku/", "_blank");
-          
-        },
-      },{id: "post-javascript-manual",
-        
-          title: 'JavaScript Manual <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "I hate web programming, but looks like I really have to learn it. Notes from Liao Xuefeng’s JS course",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://yao-lirong.github.io/blog/2022-06-11-JavaScript-Manual/", "_blank");
-          
-        },
-      },{id: "post-博客seo优化",
-        
-          title: '博客SEO优化 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "谷歌和我网站有仇吗，弄了好几天，怎么别人等一天就行了，我等一个礼拜也搞不定。换了域名以后还不如原来，原来谷歌自动就给我 index 了。这样想还是要感谢营销号和爬虫，爬了我一个我自己都看不下去的题解，竟然让我原来的博客被收录了，可惜这个新的弄起来就麻烦了…",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://yao-lirong.github.io/blog/2022-04-23-%E5%8D%9A%E5%AE%A2SEO%E4%BC%98%E5%8C%96/", "_blank");
-          
-        },
-      },{id: "post-video-editing-ffmpeg-davinci",
-        
-          title: 'Video Editing (FFmpeg DaVinci) <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "主要记录视频的一些相关知识以及 FFmpeg 和 DaVinci 的常见用法",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://yao-lirong.github.io/blog/2022-04-09-%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91-(FFmpeg-DaVinci)/", "_blank");
-          
-        },
-      },{id: "post-2021-web-journal",
-        
-          title: '2021 Web Journal <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "开始学习阮一峰记录自己看到的有意思的文章和收集有用的工具的第一个整年The best science images of 2021",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://yao-lirong.github.io/blog/2021-12-31-2021-%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97/", "_blank");
-          
-        },
-      },{id: "post-look-back-on-cornell-21fa",
-        
-          title: 'Look Back on Cornell 21FA <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "回来了，总体来说是挺努力的一学期",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://yao-lirong.github.io/blog/2021-12-15-Look-Back-on-Cornell-21FA/", "_blank");
-          
-        },
-      },{id: "post-sql-manual",
-        
-          title: 'SQL Manual <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "提交实习申请后发来个小测验，给我做崩溃了，第一个要我做这种级别的SQL，我最多也就会个 select from where，超纲过于严重，只能回头补习",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://yao-lirong.github.io/blog/2021-09-16-Intro-to-SQL/", "_blank");
-          
-        },
-      },{id: "post-java-quick-guide",
-        
-          title: 'Java Quick Guide <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "BasicsBasic File Structure:&lt;figure class=&quot;high",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://yao-lirong.github.io/blog/2021-09-10-Java-Quick-Guide/", "_blank");
-          
-        },
-      },{id: "post-c-manual",
-        
-          title: 'C Manual <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "大概是写这么多年 C(++) 以来第一次正式学 C (虽然其实在康奈尔学过一遍C++)",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://yao-lirong.github.io/blog/2021-08-31-Introduction-to-C/", "_blank");
-          
-        },
-      },{id: "post-更新archer主题-迁移hexo博客",
-        
-          title: '更新archer主题 / 迁移Hexo博客 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "重要文件不多，全在下面列出来了，记得把它们迁移好就行",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://yao-lirong.github.io/blog/2021-08-29-%E6%9B%B4%E6%96%B0archer%E4%B8%BB%E9%A2%98--%E8%BF%81%E7%A7%BBHexo%E5%8D%9A%E5%AE%A2/", "_blank");
-          
-        },
-      },{id: "post-install-and-configure-aria2-on-wsl",
-        
-          title: 'Install and Configure Aria2 on WSL <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "TutorialInstall Aria",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://yao-lirong.github.io/blog/2021-06-28-Install-and-Configure-Aria2-on-Linux/", "_blank");
-          
-        },
-      },{id: "post-on-intelligence",
-        
-          title: 'On Intelligence <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "Complexity is a symptom of confusion, not a cause.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://yao-lirong.github.io/blog/2021-06-23-On-Intelligence/", "_blank");
-          
-        },
-      },{id: "post-tensorflow-1-x-manual",
-        
-          title: 'TensorFlow 1.x Manual <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "海尔实习期间记录下的 TensorFlow 笔记",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://yao-lirong.github.io/blog/2021-05-28-Introduction-to-TensorFlow-1.x/", "_blank");
-          
-        },
-      },{id: "post-look-back-on-cornell-21sp",
-        
-          title: 'Look Back on Cornell 21SP <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "生年不满百 常怀千岁忧昼短苦夜长 何不秉烛游为乐当及时 何能待来兹愚者爱惜费 但为后世嗤仙人王子乔 难可与等期",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://yao-lirong.github.io/blog/2021-05-24-Look-Back-on-Cornell-21SP/", "_blank");
-          
-        },
-      },{id: "post-setting-up-a-server",
-        
-          title: 'Setting up a Server <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "&lt;a href=&quot;https://www.digit",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://yao-lirong.github.io/blog/2021-05-15-Setting-up-a-Server/", "_blank");
-          
-        },
-      },{id: "post-tsinghua-dsa-作业总结-3",
-        
-          title: 'Tsinghua DSA 作业总结 (3) <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "CST数据结构（2020秋）PA3",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://yao-lirong.github.io/blog/2021-02-11-Tsinghua-DSA-%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93-(3)/", "_blank");
-          
-        },
-      },{id: "post-tsinghua-dsa-作业总结-2",
-        
-          title: 'Tsinghua DSA 作业总结 (2) <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "CST数据结构（2020秋）PA2a",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://yao-lirong.github.io/blog/2021-02-10-Tsinghua-DSA-%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93-(2)/", "_blank");
-          
-        },
-      },{id: "post-tsinghua-dsa-作业总结-1",
-        
-          title: 'Tsinghua DSA 作业总结 (1) <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "CST数据结构（2020秋）PA1a",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://yao-lirong.github.io/blog/2021-02-09-Tsinghua-DSA-%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93-(1)/", "_blank");
+            window.open("https://yao-lirong.github.io/blog/first-time-debugging-with-chatgpt/", "_blank");
           
         },
       },{id: "books-the-godfather",
@@ -256,9 +256,12 @@ ninja.data = [{
           section: "News",},{id: "news-joined-xiaomi-internet-business-department-at-nanjing-jiangsu-china-as-a-machine-learning-research-engineer",
           title: 'Joined Xiaomi internet business department at Nanjing, Jiangsu, China as a machine learning...',
           description: "",
+          section: "News",},{id: "news-left-xiaomi-after-working-there-for-2-years-and-came-back-to-cornell-for-a-master-degree",
+          title: 'Left Xiaomi after working there for 2 years and came back to Cornell...',
+          description: "",
           section: "News",},{id: "projects-aphelion-defense",
           title: 'Aphelion Defense',
-          description: "a space-themed online mobile RTS game",
+          description: "Space-themed online mobile RTS game",
           section: "Projects",handler: () => {
               window.location.href = "/projects/aphelion_defense.html";
             },},{id: "projects-evolving-artificial-life-simulation",
@@ -266,6 +269,11 @@ ninja.data = [{
           description: "Critter World: my first real computer engineering project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/critter_world.html";
+            },},{id: "projects-edge-ai",
+          title: 'Edge AI',
+          description: "Xiaomi Internet Business Department annual key project",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/edge_ai.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
