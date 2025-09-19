@@ -27,11 +27,11 @@ ninja.data = [{
         
           title: 'Matryoshka Representation Learning, Adaptive Retrieval and Binary Vector Search <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "Intro to Matryoshka Representation LearningIn Matryoshka Representation Learning (MRL), we want to construct an",
+        description: "Introduces ways to make retrieval quicker",
         section: "Posts",
         handler: () => {
           
-            window.open("https://yao-lirong.github.io/blog/matryoshka-representation-learning-adaptive-retrieval-and-binary-vector-search/", "_blank");
+            window.open("https://yao-lirong.github.io/blog/2024-12-25-Matryoshka-Representation-Learning,-Adaptive-Retrieval-and-Binary-Vector-Search/", "_blank");
           
         },
       },{id: "post-youtube-recommendation-algorithms-2016",
@@ -42,7 +42,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://yao-lirong.github.io/blog/youtube-recommendation-algorithms-2016/", "_blank");
+            window.open("https://yao-lirong.github.io/blog/2024-10-15-YouTube-Recommendation-Algorithms-(2016)/", "_blank");
           
         },
       },{id: "post-running-mobilebert-on-android-with-tensorflow-lite",
@@ -53,7 +53,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://yao-lirong.github.io/blog/running-mobilebert-on-android-with-tensorflow-lite/", "_blank");
+            window.open("https://yao-lirong.github.io/blog/2024-09-22-Running-MobileBert-on-Android-with-TensorFlow-Lite/", "_blank");
           
         },
       },{id: "post-variational-inference",
@@ -64,7 +64,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://yao-lirong.github.io/blog/variational-inference/", "_blank");
+            window.open("https://yao-lirong.github.io/blog/2024-09-09-Variational-Inference/", "_blank");
           
         },
       },{id: "post-hyper-parameter-tuning-with-optuna",
@@ -75,7 +75,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://yao-lirong.github.io/blog/hyper-parameter-tuning-with-optuna/", "_blank");
+            window.open("https://yao-lirong.github.io/blog/2024-08-23-Hyper-Parameter-Tuning-with-Optuna/", "_blank");
           
         },
       },{id: "post-kv-cache",
@@ -86,7 +86,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://yao-lirong.github.io/blog/kv-cache/", "_blank");
+            window.open("https://yao-lirong.github.io/blog/2024-07-02-KV-Cache/", "_blank");
           
         },
       },{id: "post-conducting-multi-round-conversation-with-transformers",
@@ -97,7 +97,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://yao-lirong.github.io/blog/conducting-multi-round-conversation-with-transformers/", "_blank");
+            window.open("https://yao-lirong.github.io/blog/2024-06-17-Conducting-Multi-Round-Conversation-with-Transformers/", "_blank");
           
         },
       },{id: "post-gpt-4o-release",
@@ -108,7 +108,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://yao-lirong.github.io/blog/gpt-4o-release/", "_blank");
+            window.open("https://yao-lirong.github.io/blog/2024-05-14-GPT-4o-Release/", "_blank");
           
         },
       },{id: "post-clip",
@@ -119,7 +119,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://yao-lirong.github.io/blog/clip/", "_blank");
+            window.open("https://yao-lirong.github.io/blog/2024-04-22-CLIP/", "_blank");
           
         },
       },{id: "post-gradient-scaling",
@@ -130,7 +130,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://yao-lirong.github.io/blog/gradient-scaling/", "_blank");
+            window.open("https://yao-lirong.github.io/blog/2024-04-08-Gradient-Scaling/", "_blank");
           
         },
       },{id: "post-decoupled-weight-decay-regularization-sgdw-amp-adamw",
@@ -141,7 +141,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://yao-lirong.github.io/blog/decoupled-weight-decay-regularization-sgdw-adamw/", "_blank");
+            window.open("https://yao-lirong.github.io/blog/2024-03-13-Decoupled-Weight-Decay-Regularization-(SGDW-&-AdamW)/", "_blank");
           
         },
       },{id: "post-mixed-precision-training",
@@ -152,7 +152,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://yao-lirong.github.io/blog/mixed-precision-training/", "_blank");
+            window.open("https://yao-lirong.github.io/blog/2024-03-01-Mixed-Precision-Training/", "_blank");
           
         },
       },{id: "post-parameter-and-flop-count-in-transformer-model",
@@ -163,7 +163,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://yao-lirong.github.io/blog/parameter-and-flop-count-in-transformer-model/", "_blank");
+            window.open("https://yao-lirong.github.io/blog/2024-02-22-Parameter-and-FLOP-Count-in-Transformer-Model/", "_blank");
           
         },
       },{id: "post-memory-pinning-and-transfer-data-between-host-cpu-and-device-gpu",
@@ -174,7 +174,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://yao-lirong.github.io/blog/memory-pinning-and-transfer-data-between-host-cpu-and-device-gpu/", "_blank");
+            window.open("https://yao-lirong.github.io/blog/2024-02-09-Memory-Pinning-and-Transfer-Data-between-Host-(CPU)-and-Device-(GPU)/", "_blank");
           
         },
       },{id: "post-switching-personal-homepage-theme-to-al-folio",
@@ -185,7 +185,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://yao-lirong.github.io/blog/switching-personal-homepage-theme-to-al-folio/", "_blank");
+            window.open("https://yao-lirong.github.io/blog/2024-01-27-Switching-Personal-Webpage-Theme-to-al-folio/", "_blank");
           
         },
       },{id: "post-visual-information-theory",
@@ -196,7 +196,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://yao-lirong.github.io/blog/visual-information-theory/", "_blank");
+            window.open("https://yao-lirong.github.io/blog/2024-01-21-Visual-Information-Theory/", "_blank");
           
         },
       },{id: "post-quantization",
@@ -207,7 +207,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://yao-lirong.github.io/blog/quantization/", "_blank");
+            window.open("https://yao-lirong.github.io/blog/2023-12-01-Quantization/", "_blank");
           
         },
       },{id: "post-fine-tuning-llms-prompt-tuning-adapter-lora",
@@ -218,7 +218,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://yao-lirong.github.io/blog/fine-tuning-llms-prompt-tuning-adapter-lora/", "_blank");
+            window.open("https://yao-lirong.github.io/blog/2023-11-20-Fine-Tuning-LLMs-Prompt-Tuning,-Adapter,-LoRA/", "_blank");
           
         },
       },{id: "post-graph-networks-amp-graphcast",
@@ -229,7 +229,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://yao-lirong.github.io/blog/graph-networks-graphcast/", "_blank");
+            window.open("https://yao-lirong.github.io/blog/2023-11-16-Graph-Networks-&-GraphCast/", "_blank");
           
         },
       },{id: "post-first-time-debugging-with-chatgpt",
@@ -240,7 +240,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://yao-lirong.github.io/blog/first-time-debugging-with-chatgpt/", "_blank");
+            window.open("https://yao-lirong.github.io/blog/2023-04-04-First-Time-Debugging-with-ChatGPT/", "_blank");
           
         },
       },{id: "books-the-godfather",
